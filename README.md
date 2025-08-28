@@ -13,4 +13,13 @@ Example for array code:
 
 `/Rishabh/array.c`<br>
 `/Rishabh/linkedlist.c`<br>  
+3. Push your code after class or when assignment is given.
+## Rules
+- Do not touch other student’s folder.
+- Keep filenames simple and meaningful (array.c, stack.c).
+- Always write your name in comments inside the code.
+- Learn Git basics: git add ., git commit -m "message", git push.
+- Be respectful — this repo is for learning together.
 
+##  This repo is for practice + teamwork.
+Every push you do = more learning for you 
